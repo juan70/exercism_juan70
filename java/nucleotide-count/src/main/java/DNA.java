@@ -10,11 +10,11 @@ public class DNA {
    */
 
   public static final String NUCS = "ACGT";
-  private String DNA_strand;
+  private String DNAStrand;
 
 
   public DNA(String s) {
-    DNA_strand = s;
+    DNAStrand = s;
   }
 
 
@@ -22,7 +22,7 @@ public class DNA {
     /* Information here https://stackoverflow.com/questions/22435833/why-is-string-chars-a-stream-of-ints-in-java-8 */
     if (NUCS.contains("" + nuc)) {
      /* return value must be an int, because the tests expect an int, not a long... */
-      return (int)DNA_strand.chars()
+      return (int)DNAStrand.chars()
                          .mapToObj(i -> (char)i)
                          .filter(c -> c == nuc)
                          .count();

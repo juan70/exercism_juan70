@@ -15,10 +15,10 @@ public class WordCount {
      * i.e. a non-word character or a group of non-word characters.
      * Hence: separator is \W+ (underscore _ is a valid char).
      */
-    String[] str_list = ph.toLowerCase().split("\\W+");
+    String[] strList = ph.toLowerCase().split("\\W+");
     Map<String, Integer> counts = new HashMap<>();
 
-    Arrays.asList(str_list)
+    Arrays.asList(strList)
       .forEach(s -> {
         Integer v = counts.putIfAbsent(s, 1);
         if (v != null) {
