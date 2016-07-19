@@ -11,4 +11,5 @@
 !.gitignore
 !*.java
 !*.md
+!build.gradle
 
