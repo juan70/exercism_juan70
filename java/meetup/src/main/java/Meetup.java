@@ -31,14 +31,10 @@ public class Meetup
     // at most, there are 5 mondays in a month
     // and only 1 teenth for a specific weekday
     List<Integer> days = new ArrayList<>();
-    int teenth = 0;
 
     for (int i = 1; i <= maxDay; i++) {
       if ( (new DateTime(year, month, i, 0, 0)).getDayOfWeek() == weekday ) {
         days.add(i);
-        if (i >= 13 && i <= 19) {
-          teenth = i;
-        }
       }
     }
 
@@ -61,7 +57,10 @@ public class Meetup
         theDay = days.get(days.size() - 1);
         break;
       case TEENTH:
-        theDay = teenth;
+        theDay = days.stream()
+                     .filter(d -> d >= 13 && d <= 19)
+                     .findFirst()
+                     .get();  // I know the value exists, so I use get()
         break;
       default:
         throw new IllegalArgumentException();  // should not occur
