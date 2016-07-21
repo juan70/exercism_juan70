@@ -6,7 +6,7 @@ public class PhoneNumber {
 
   public PhoneNumber(String pn) {
     // clean the number: extract the digits only, ignoring non-digits characters
-    String strDigs = String.join("", pn.split("\\D+"));
+    String strDigs = pn.replaceAll("\\D+", "");
 
     if (strDigs.length() == NUMDIGITS) {
       phoneNum = strDigs;  // good number
