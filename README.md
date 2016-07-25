@@ -13,3 +13,26 @@ As a side note, I found myself using a functional language style when writing Ja
 
 ---
 
+Exercises done so far in [Java](./java):
+
+| | Name | Class file
+:--:|:----:|:--------:|
+01 | Hello World      | [HelloWorld.java](./java/hello-world/src/main/java/HelloWorld.java)
+02 | Etl              | [Etl.java](./java/etl/src/main/java/Etl.java)
+03 | Nucleotide Count | [DNA.java](./java/nucleotide-count/src/main/java/DNA.java)
+04 | Word Count       | [WordCount.java](./java/word-count/src/main/java/WordCount.java)
+05 | Pangram          | [Pangrams.java](./java/pangram/src/main/java/Pangrams.java)
+06 | Anagram          | [Anagram.java](./java/anagram/src/main/java/Anagram.java)
+07 | Hamming          | [Hamming.java](./java/hamming/src/main/java/Hamming.java)
+08 | Bob              | [Bob.java](./java/bob/src/main/java/Bob.java)
+09 | Robot Name       | [Robot.java](./java/robot-name/src/main/java/Robot.java)
+10 | Meetup           | [Meetup.java](./java/meetup/src/main/java/Meetup.java)
+11 | Phone Number     | [PhoneNumber.java](./java/phone-number/src/main/java/PhoneNumber.java)
+12 | Grade School     | [School.java](./java/grade-school/src/main/java/School.java)
+13 | Space Age        | [SpaceAge.java](./java/space-age/src/main/java/SpaceAge.java)
+14 | Gigasecond       | [Gigasecond.java](./java/gigasecond/src/main/java/Gigasecond.java)
+15 | Triangle         | [Triangle.java](./java/triangle/src/main/java/Triangle.java)
+16 | Acronym          | [Acronym.java](./java/acronym/src/main/java/Acronym.java)
+17 | Scrabble Score   | [Scrabble.java](./java/scrabble-score/src/main/java/Scrabble.java)
+
+---
