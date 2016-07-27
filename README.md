@@ -35,5 +35,6 @@ Exercises done so far in [Java](./java):
 16 | Acronym          | [Acronym.java](./java/acronym/src/main/java/Acronym.java)
 17 | Scrabble Score   | [Scrabble.java](./java/scrabble-score/src/main/java/Scrabble.java)
 18 | Roman Numerals   | [RomanNumeral.java](./java/roman-numerals/src/main/java/RomanNumeral.java)
+19 | Binary           | [Binary.java](./java/binary/src/main/java/Binary.java)
 
 ---
