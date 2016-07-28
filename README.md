@@ -36,5 +36,6 @@ Exercises done so far in [Java](./java):
 17 | Scrabble Score   | [Scrabble.java](./java/scrabble-score/src/main/java/Scrabble.java)
 18 | Roman Numerals   | [RomanNumeral.java](./java/roman-numerals/src/main/java/RomanNumeral.java)
 19 | Binary           | [Binary.java](./java/binary/src/main/java/Binary.java)
+20 | Primes Factors   | [PrimeFactors.java](./java/prime-factors/src/main/java/PrimeFactors.java)
 
 ---
