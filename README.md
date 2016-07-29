@@ -37,5 +37,6 @@ Exercises done so far in [Java](./java):
 18 | Roman Numerals   | [RomanNumeral.java](./java/roman-numerals/src/main/java/RomanNumeral.java)
 19 | Binary           | [Binary.java](./java/binary/src/main/java/Binary.java)
 20 | Primes Factors   | [PrimeFactors.java](./java/prime-factors/src/main/java/PrimeFactors.java)
+21 | Raindrops        | [Raindrops.java](./java/raindrops/src/main/java/Raindrops.java)
 
 ---
