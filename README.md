@@ -39,5 +39,6 @@ Exercises done so far in [Java](./java):
 20 | Primes Factors   | [PrimeFactors.java](./java/prime-factors/src/main/java/PrimeFactors.java)
 21 | Raindrops        | [Raindrops.java](./java/raindrops/src/main/java/Raindrops.java)
 22 | Allergies        | [Allergies.java](./java/allergies/src/main/java/Allergies.java)
+23 | Strain           | [Strain.java](./java/strain/src/main/java/Strain.java)
 
 ---
