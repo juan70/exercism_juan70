@@ -41,5 +41,6 @@ Exercises done so far in [Java](./java):
 22 | Allergies        | [Allergies.java](./java/allergies/src/main/java/Allergies.java)
 23 | Strain           | [Strain.java](./java/strain/src/main/java/Strain.java)
 24 | Atbash Cipher    | [Atbash.java](./java/atbash-cipher/src/main/java/Atbash.java)
+25 | Accumulate       | [Accumulate.java](./java/accumulate/src/main/java/Accumulate.java)
 
 ---
