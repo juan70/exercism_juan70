@@ -40,5 +40,6 @@ Exercises done so far in [Java](./java):
 21 | Raindrops        | [Raindrops.java](./java/raindrops/src/main/java/Raindrops.java)
 22 | Allergies        | [Allergies.java](./java/allergies/src/main/java/Allergies.java)
 23 | Strain           | [Strain.java](./java/strain/src/main/java/Strain.java)
+24 | Atbash Cipher    | [Atbash.java](./java/atbash-cipher/src/main/java/Atbash.java)
 
 ---
