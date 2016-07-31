@@ -42,5 +42,6 @@ Exercises done so far in [Java](./java):
 23 | Strain           | [Strain.java](./java/strain/src/main/java/Strain.java)
 24 | Atbash Cipher    | [Atbash.java](./java/atbash-cipher/src/main/java/Atbash.java)
 25 | Accumulate       | [Accumulate.java](./java/accumulate/src/main/java/Accumulate.java)
+26 | Crypto Square    | [Crypto.java](./java/crypto-square/src/main/java/Crypto.java)
 
 ---
