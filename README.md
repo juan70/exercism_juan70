@@ -46,5 +46,6 @@ Exercises done so far in [Java](./java):
 27 | Trinary           | [Trinary.java](./java/trinary/src/main/java/Trinary.java)
 28 | Rna Transcription | [RnaTranscription.java](./java/rna-transcription/src/main/java/RnaTranscription.java)
 29 | Hexadecimal       | [Hexadecimal.java](./java/hexadecimal/src/main/java/Hexadecimal.java)
+30 | Sieve             | [Sieve.java](./java/sieve/src/main/java/Sieve.java)
 
 ---
