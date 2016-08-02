@@ -48,5 +48,6 @@ Exercises done so far in [Java](./java):
 29 | Hexadecimal       | [Hexadecimal.java](./java/hexadecimal/src/main/java/Hexadecimal.java)
 30 | Sieve             | [Sieve.java](./java/sieve/src/main/java/Sieve.java)
 31 | Simple Cipher     | [Cipher.java](./java/simple-cipher/src/main/java/Cipher.java)
+32 | Octal             | [Octal.java](./java/octal/src/main/java/Octal.java)
 
 ---
