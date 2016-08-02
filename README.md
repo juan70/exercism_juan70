@@ -50,5 +50,6 @@ Exercises done so far in [Java](./java):
 31 | Simple Cipher     | [Cipher.java](./java/simple-cipher/src/main/java/Cipher.java)
 32 | Octal             | [Octal.java](./java/octal/src/main/java/Octal.java)
 33 | Luhn              | [Luhn.java](./java/luhn/src/main/java/Luhn.java)
+34 | Pig Latin         | [PigLatin.java](./java/pig-latin/src/main/java/PigLatin.java)
 
 ---
