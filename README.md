@@ -47,5 +47,6 @@ Exercises done so far in [Java](./java):
 28 | Rna Transcription | [RnaTranscription.java](./java/rna-transcription/src/main/java/RnaTranscription.java)
 29 | Hexadecimal       | [Hexadecimal.java](./java/hexadecimal/src/main/java/Hexadecimal.java)
 30 | Sieve             | [Sieve.java](./java/sieve/src/main/java/Sieve.java)
+31 | Simple Cipher     | [Cipher.java](./java/simple-cipher/src/main/java/Cipher.java)
 
 ---
