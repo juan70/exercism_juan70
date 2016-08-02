@@ -9,7 +9,7 @@ As usual when programming, there is more than one possible solution for a partic
 
 ---
 
-As a side note, I found myself using a functional language style when writing Java code. For example, instead of using a typical `for` loop, I tend to use the `forEach` method when/if possible. Also, some lambda expressions here and there. Why not?
+As a side note, I found myself using a functional language style when writing Java code. For example, instead of using a typical `for` loop, I tend to use the `forEach` method when/if possible or when/if I want to. Also, some lambda expressions here and there. Why not?
 
 ---
 
@@ -49,5 +49,6 @@ Exercises done so far in [Java](./java):
 30 | Sieve             | [Sieve.java](./java/sieve/src/main/java/Sieve.java)
 31 | Simple Cipher     | [Cipher.java](./java/simple-cipher/src/main/java/Cipher.java)
 32 | Octal             | [Octal.java](./java/octal/src/main/java/Octal.java)
+33 | Luhn              | [Luhn.java](./java/luhn/src/main/java/Luhn.java)
 
 ---
