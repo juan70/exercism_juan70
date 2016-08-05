@@ -54,5 +54,6 @@ Exercises done so far in [Java](./java):
 35 | Simple Linked List | [SimpleLinkedList.java](./java/simple-linked-list/src/main/java/SimpleLinkedList.java)
 36 | Linked List        | [Deque.java](./java/linked-list/src/main/java/Deque.java) <br> [Node.java](./java/linked-list/src/main/java/Node.java)
 37 | Nth Prime          | [Prime.java](./java/nth-prime/src/main/java/Prime.java)
+38 | Pascals Triangle   | [PascalsTriangle.java](./java/pascals-triangle/src/main/java/PascalsTriangle.java)
 
 ---
