@@ -36,7 +36,7 @@ Exercises done so far in [Java](./java):
 17 | Scrabble Score     | [Scrabble.java](./java/scrabble-score/src/main/java/Scrabble.java)
 18 | Roman Numerals     | [RomanNumeral.java](./java/roman-numerals/src/main/java/RomanNumeral.java)
 19 | Binary             | [Binary.java](./java/binary/src/main/java/Binary.java)
-20 | Primes Factors     | [PrimeFactors.java](./java/prime-factors/src/main/java/PrimeFactors.java)
+20 | Prime Factors      | [PrimeFactors.java](./java/prime-factors/src/main/java/PrimeFactors.java)
 21 | Raindrops          | [Raindrops.java](./java/raindrops/src/main/java/Raindrops.java)
 22 | Allergies          | [Allergies.java](./java/allergies/src/main/java/Allergies.java)
 23 | Strain             | [Strain.java](./java/strain/src/main/java/Strain.java)
@@ -55,5 +55,8 @@ Exercises done so far in [Java](./java):
 36 | Linked List        | [Deque.java](./java/linked-list/src/main/java/Deque.java) <br> [Node.java](./java/linked-list/src/main/java/Node.java)
 37 | Nth Prime          | [Prime.java](./java/nth-prime/src/main/java/Prime.java)
 38 | Pascals Triangle   | [PascalsTriangle.java](./java/pascals-triangle/src/main/java/PascalsTriangle.java)
+39 | Beer Song          | [BeerSong.java](./java/beer-song/src/main/java/BeerSong.java)
+
+ And I am done with the Java track. All the exercises are done (pass the tests), unless they add more of them.
 
 ---
