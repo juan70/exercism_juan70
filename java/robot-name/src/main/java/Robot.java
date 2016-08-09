@@ -39,12 +39,11 @@ public class Robot
 
 
   public String getName() {
-    if (name != null) {
-      return name;
-    } else {
+    if (name == null) {
       name = generateName();
-      return name;
     }
+
+    return name;
   }
 }
 
